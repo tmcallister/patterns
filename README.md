@@ -1,4 +1,5 @@
 patterns
 ========
 
-Design pattern samples in Ruby
+Design pattern samples in Ruby.
+Duck Typing.
